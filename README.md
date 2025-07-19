@@ -51,13 +51,13 @@ The application allows users to **secure text data** using **AES, DES, and RSA**
    python TextEncryption.py
 
 2. To Encrypt:
-  - Enter the text you want to encrypt.
-  - Select AES, DES, or RSA.
-  - For AES/DES, enter a passkey.
-  - Click Encrypt to generate:
-    - Encrypted text
-    - IV (for AES/DES)
-  - Copy these values if you want to decrypt later.
+    - Enter the text you want to encrypt.
+    - Select AES, DES, or RSA.
+    - For AES/DES, enter a passkey.
+    - Click Encrypt to generate:
+      - Encrypted text
+      - IV (for AES/DES)
+    - Copy these values if you want to decrypt later.
 
 3. To Decrypt:
   - Paste the IV, ciphertext, and the same passkey (for AES/DES).
@@ -67,8 +67,8 @@ The application allows users to **secure text data** using **AES, DES, and RSA**
 ---
 
 ## 📸 Screenshot (Sample UI)
-```bash
-GUI_ScreenShot.png
+    ```bash
+    GUI_ScreenShot.png
 
 ---
 
