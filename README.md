@@ -67,7 +67,8 @@ The application allows users to **secure text data** using **AES, DES, and RSA**
 ---
 
 ## 📸 Screenshot (Sample UI)
-  GUI_ScreenShot.png
+```bash
+GUI_ScreenShot.png
 
 ---
 
