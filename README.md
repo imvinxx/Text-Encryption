@@ -32,5 +32,44 @@ The application allows users to **secure text data** using **AES, DES, and RSA**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-encryption-tool.git
-   cd python-encryption-tool
+   git clone https://github.com/imvinxx/Text-Encryption.git
+
+2. Install dependencies:
+   ```bash
+   pip install pycryptodome
+
+3. Run the Program:
+   ```bash
+   python TextEncryption.py
+
+---
+
+## 🖥️ How to Use
+
+1. Launch the application:
+   ```bash
+   python TextEncryption.py
+
+2. To Encrypt:
+  -Enter the text you want to encrypt.
+  -Select AES, DES, or RSA.
+  -For AES/DES, enter a passkey.
+  -Click Encrypt to generate:
+    -Encrypted text
+    -IV (for AES/DES)
+  -Copy these values if you want to decrypt later.
+
+3. To Decrypt:
+  -Paste the IV, ciphertext, and the same passkey (for AES/DES).
+  -Select the algorithm used.
+  -Click Decrypt to reveal the original text.
+
+---
+
+## 📸 Screenshot (Sample UI)
+  ```bash
+  GUI_ScreenShot.png
+
+---
+
+
