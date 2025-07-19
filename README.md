@@ -67,9 +67,21 @@ The application allows users to **secure text data** using **AES, DES, and RSA**
 ---
 
 ## 📸 Screenshot (Sample UI)
-  ```bash
   GUI_ScreenShot.png
 
 ---
+
+## 📚 Learning Outcomes
+**This project helped me:**
+- Understand symmetric (AES/DES) vs asymmetric (RSA) encryption
+- Work with key derivation and hashing (SHA256)
+- Build a functional security tool using Python
+- Practice GUI design
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
 
 
